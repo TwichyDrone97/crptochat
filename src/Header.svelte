@@ -8,7 +8,7 @@
 </script>
 
 <header>
-<h1>CRYPTO CHANNEL</h1>
+<h1>Sun Life</h1>
   {#if $username}
     <div class="user-bio">
       
@@ -20,6 +20,6 @@
 
     {:else}
 
-      <h3>crypto is life!</h3>
+      <h3>Corporate espionage alert</h3>
   {/if}
 </header>
